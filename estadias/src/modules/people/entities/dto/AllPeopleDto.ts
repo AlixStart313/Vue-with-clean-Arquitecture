@@ -1,4 +1,4 @@
-import {PeopleDto} from './dto/PeopleDto'
+import {PeopleDto} from './PeopleDto'
 
 export type AllPeopleDto={
     page:number,

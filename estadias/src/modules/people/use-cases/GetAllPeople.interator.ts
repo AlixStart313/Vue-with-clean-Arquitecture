@@ -1,6 +1,6 @@
 import { UseCase } from '@/kernel/contracts';
 import { ResponseApi } from '../../../kernel/types';
-import { AllPeopleDto } from '../entities/AllPeopleDto';
+import { AllPeopleDto } from '../entities/dto/AllPeopleDto';
 import PeopleRepository from './ports/people.repository';
 
 
